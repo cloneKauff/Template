@@ -41,6 +41,6 @@ int main() {
 	cout << "The half value of " << b << " = " << half(b) << "\n";
 
 	int d = static_cast<int>(c);
-	cout << "The half value of " << (c) << " = " << half(d) << "\n";
+	cout << "The half value of " << (c) << " = " << half(c) << "\n";
 
 }
